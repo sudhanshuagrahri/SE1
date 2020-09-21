@@ -1,0 +1,6 @@
+Waterfall model
+The Waterfall Model is a linear application development model that uses rigid phases: When one phase ends, the next begins. 
+Steps occur in sequence, and, if unmodified, the model does not allow developers to go back to previous steps (hence “waterfall”: Once water falls down, it cannot go back up).
+The Modified Waterfall Model allows a return to a previous phase for verification or validation
+Phase in waterfall are 
+planning designing,coding or implementation,testing and deployment
